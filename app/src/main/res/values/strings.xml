@@ -7,4 +7,5 @@
     <string name="loser">Unfortunate you lost</string>
     <string name="missedTurn">Sucks for you, you just lost a life</string>
     <string name="ekstraTurn">Congratulations, you just received an ekstra life</string>
+    <string name="chooseLetter">Choose a letter</string>
 </resources>
