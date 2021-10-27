@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">s205345 Wheel of Fortune</string>
+    <string name="spinwheel">spinWheel</string>
+    <string name="spinButton">Button</string>
+    <string name="bankrupt">You just went bankrupt, and lost all your points</string>
+    <string name="winner">Winner Winner Chicken Dinner, YOU WON</string>
+    <string name="loser">Unfortunate you lost</string>
+    <string name="missedTurn">Sucks for you, you just lost a life</string>
+    <string name="ekstraTurn">Congratulations, you just received an ekstra life</string>
+</resources>
