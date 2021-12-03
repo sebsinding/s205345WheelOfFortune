@@ -3,10 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_bankrupt.xml" value="0.1887031408308004" />
+        <entry key="app/src/main/res/layout/activity_choose_letter.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_gain_life.xml" value="0.1461499493414387" />
+        <entry key="app/src/main/res/layout/activity_lose_life.xml" value="0.1887031408308004" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/bankrupt.xml" value="0.24635416666666668" />
         <entry key="app/src/main/res/layout/choose_letter.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/fragment_choose_letter.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/gain_life.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/gain_lose_life.xml" value="0.24635416666666668" />
         <entry key="app/src/main/res/layout/game_lost.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/game_lost_or_won.xml" value="0.24895833333333334" />
         <entry key="app/src/main/res/layout/game_won.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/lose_life.xml" value="0.2558876811594203" />
         <entry key="app/src/main/res/layout/spin_wheel.xml" value="0.3880208333333333" />
       </map>
     </option>

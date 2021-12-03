@@ -12,4 +12,8 @@ class Player{
         lives += change
     }
 
+    fun bankrupt(){
+        points = 0
+    }
+
 }
